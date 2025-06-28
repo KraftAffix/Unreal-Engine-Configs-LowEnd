@@ -11,7 +11,9 @@ fps should increase by about 10%-20% _surely_
 <summary>More Fixes</summary>
 
 ```
-; fixes shown here makes your game look weird but adds more fps
+; some fixes shown here makes your game look weird but adds more fps
+; please experiment different settings
+: put in Engine.ini under [SystemSettings]
 
 ; 0: PF_FloatRGBA (better quality) | 1: PF_FloatR11G11B10
 r.SGSR2.History=1
