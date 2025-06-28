@@ -27,19 +27,6 @@ r.SGSR2.Quality=3
 r.SGSR2.5Sample=1
 ```
 
-```
-; fixes shown here depends on your device
-
-; Enable/disable interactive leaves
-Kuro.InteractiveLeavesForceMobilePreview=1
-
-; Enable/disable AFME feature
-r.AFME.Enable=1
-r.AFME.Kuro.Enable=1
-
-; Enable/disable Snapdragon Game Super Resolution 2
-r.SGSR2.Enabled=1
-```
 [github/AlteriaX/WuWa-Configs/](https://github.com/AlteriaX/WuWa-Configs/)
 </details>
 
