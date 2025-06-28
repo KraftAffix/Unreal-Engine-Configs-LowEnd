@@ -8,7 +8,7 @@ config files focus solely on performance \
 fps should increase by about 10%-20% _surely_
 
 <details>
-<summary>More Fixes</summary>
+<summary>More Fixes (not included in main files)</summary>
 
 ```
 ; some fixes shown here makes your game look weird but adds more fps
