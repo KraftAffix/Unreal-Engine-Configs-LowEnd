@@ -9,33 +9,6 @@ fps should increase by about 10%-20% _surely_
 
 ---
 
-<details>
-<summary>More Fixes (not included in main files)</summary>
-
-```
-; upscaling settings
-; please experiment different settings
-: put in Engine.ini under [SystemSettings]
-; its best to remove r.SecondaryScreenPercentage.GameViewport when using this
-
-; Enable/disable Snapdragon Game Super Resolution 2
-r.SGSR2.Enabled=1
-
-; 0: PF_FloatRGBA (better quality) | 1: PF_FloatR11G11B10
-r.SGSR2.History=1
-
-; 0: Ultra Quality | 1: Quality | 2: Balanced | 3: Performance
-r.SGSR2.Quality=3
-
-; 0: Use 9Sample for better quality | 1: Use 5Sample for better performance
-r.SGSR2.5Sample=1
-```
-
-[github/AlteriaX/WuWa-Configs/](https://github.com/AlteriaX/WuWa-Configs/)
-</details>
-
----
-
 Tested on devices with MediaTek Helio G100 with Mali-G57 GPU
 + Tecno Pova 7 4G
 + Tecno Camon 40 Pro 4G
