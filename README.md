@@ -4,6 +4,9 @@
 
 come join (im not the owner)
 
+config files focus solely on performance without loosing too much quality \
+fps should increase by about 10%-20% _surely_
+
 ---
 
 Tested on devices with MediaTek Helio G100 with Mali-G57 GPU
@@ -21,3 +24,7 @@ Tested on devices with MediaTek Helio G100 with Mali-G57 GPU
 + OPPO Reno 13 F 4G
 
 _it should work on other devices though_
+
+---
+
+all credits goes to members of Brandy's Corner Discord
