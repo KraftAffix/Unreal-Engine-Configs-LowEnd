@@ -11,8 +11,8 @@ fps should increase by about 10%-20% _surely_
 
 Tested on devices with MediaTek Helio G100 with Mali-G57 GPU
 + Tecno Pova 7 4G
-+ Tecno Camon 40 Pro 4G
-+ Tecno Camon 40 4G
++ Tecno Camon 40 Pro 4G
++ Tecno Camon 40 4G
 + Tecno Camon 30S
 + Tecno Camon 30S Pro
 + Tecno Spark 30 Pro
