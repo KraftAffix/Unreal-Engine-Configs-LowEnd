@@ -7,6 +7,8 @@ come join (im not the owner)
 config files focus solely on performance \
 fps should increase by about 10%-20% _surely_
 
+---
+
 <details>
 <summary>More Fixes (not included in main files)</summary>
 
