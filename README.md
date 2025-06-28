@@ -1,4 +1,4 @@
-# Wuthering Waves Configurations
+# Wuthering Waves Configurations for Android
 
 [<img src="https://discord.com/api/guilds/798954204420112454/widget.png?style=banner2">](https://discord.gg/gczjQvgzWE)
 
@@ -8,9 +8,11 @@ config files focus solely on performance \
 fps should increase by about 10%-20% _surely_
 
 <details>
-<summary>Optional Fixes (makes your game look weird) </summary>
+<summary>More Fixes</summary>
 
 ```
+; fixes shown here makes your game look weird but adds more fps
+
 ; 0: PF_FloatRGBA (better quality) | 1: PF_FloatR11G11B10
 r.SGSR2.History=1
 
@@ -21,6 +23,20 @@ r.SGSR2.Quality=3
 r.SGSR2.5Sample=1
 ```
 
+```
+; fixes shown here depends on your device
+
+; Enable/disable interactive leaves
+Kuro.InteractiveLeavesForceMobilePreview=1
+
+; Enable/disable AFME feature
+r.AFME.Enable=1
+r.AFME.Kuro.Enable=1
+
+; Enable/disable Snapdragon Game Super Resolution 2
+r.SGSR2.Enabled=1
+```
+[github/AlteriaX/WuWa-Configs/](https://github.com/AlteriaX/WuWa-Configs/)
 </details>
 
 ---
@@ -43,4 +59,5 @@ _it should work on other devices though_
 
 ---
 
-all credits goes to members of Brandy's Corner Discord
+all credits goes to members of [Brandy's Corner](https://discord.gg/gczjQvgzWE) Discord \
+[github/AlteriaX/WuWa-Configs/](https://github.com/AlteriaX/WuWa-Configs/)
