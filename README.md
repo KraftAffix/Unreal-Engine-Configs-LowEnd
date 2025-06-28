@@ -4,7 +4,7 @@
 
 come join (im not the owner)
 
-config files focus solely on performance \
+config files mainly focus on game performance \
 fps should increase by about 10%-20% _surely_
 
 ---
