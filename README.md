@@ -16,6 +16,8 @@ Tested on devices with MediaTek Helio G100 with Mali-G57 GPU
 + Infinix Note 50 4G
 + Infinix Note 50 Pro 4G
 + Infinix Hot 50 4G
-+ Infinix Hot 50 Pro
++ Infinix Hot 50 Pro 4G
 + Infinix Hot 50 Pro+
 + OPPO Reno 13 F 4G
+
+_it should work on other devices though_
