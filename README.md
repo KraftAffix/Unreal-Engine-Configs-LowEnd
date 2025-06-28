@@ -7,6 +7,22 @@ come join (im not the owner)
 config files focus solely on performance \
 fps should increase by about 10%-20% _surely_
 
+<details>
+<summary>Optional Fixes (makes your game look weird) </summary>
+
+```
+; 0: PF_FloatRGBA (better quality) | 1: PF_FloatR11G11B10
+r.SGSR2.History=1
+
+; 0: Ultra Quality | 1: Quality | 2: Balanced | 3: Performance
+r.SGSR2.Quality=3
+
+; 0: Use 9 sample for better quality | 1: Use 5 sample for better performance
+r.SGSR2.5Sample=1
+```
+
+</details>
+
 ---
 
 Tested on devices with MediaTek Helio G100 with Mali-G57 GPU
