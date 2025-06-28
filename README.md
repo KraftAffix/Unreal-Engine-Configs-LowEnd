@@ -21,7 +21,7 @@ r.SGSR2.History=1
 ; 0: Ultra Quality | 1: Quality | 2: Balanced | 3: Performance
 r.SGSR2.Quality=3
 
-; 0: Use 9 sample for better quality | 1: Use 5 sample for better performance
+; 0: Use 9Sample for better quality | 1: Use 5Sample for better performance
 r.SGSR2.5Sample=1
 ```
 
