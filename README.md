@@ -7,6 +7,8 @@ come join (im not the owner)
 config files mainly focus on game performance \
 fps should increase by about 10%-20% _surely_
 
+there's AI slop in the commands
+
 ---
 
 Tested on devices with MediaTek Helio G100 with Mali-G57 GPU
