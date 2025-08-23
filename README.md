@@ -36,7 +36,7 @@ _it should work on other devices though_
 <summary>Tested on a dogshit laptop</summary>
 
 \
-[Acer Aspire E5-476G](https://www.acer.com/us-en/support/product-support/Aspire_E5-476G)
+[Acer Aspire E5-476G](https://www.userbenchmark.com/UserRun/71036061)
 + CPU: Intel Core i3-7130U
 + GPU: NVIDIA GeForce MX150
 + RAM: 12 GB DDR4
