@@ -1,3 +1,5 @@
+source: [AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)
+
 Copy files to this location: 
 > ..Wuthering Waves\Wuthering Waves Game\Client\Saved\Config\WindowsNoEditor
 
