@@ -1,4 +1,4 @@
-# Wuthering Waves Configurations for Android
+# Wuthering Waves Configurations for Android and Windows
 
 [<img src="https://discord.com/api/guilds/798954204420112454/widget.png?style=banner2">](https://discord.gg/gczjQvgzWE)
 
