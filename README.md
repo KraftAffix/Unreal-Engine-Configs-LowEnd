@@ -1,6 +1,6 @@
 source: [AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)
 
-# Wuthering Waves Configurations for Android and Windows
+# Wuthering Waves Configurations for Low Specs
 
 [<img src="https://discord.com/api/guilds/798954204420112454/widget.png?style=banner2">](https://discord.gg/gczjQvgzWE)
 
