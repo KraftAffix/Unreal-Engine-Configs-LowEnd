@@ -1,3 +1,5 @@
+source: [AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)
+
 # Wuthering Waves Configurations for Android and Windows
 
 [<img src="https://discord.com/api/guilds/798954204420112454/widget.png?style=banner2">](https://discord.gg/gczjQvgzWE)
@@ -8,7 +10,9 @@ config files mainly focus on game performance
 
 ---
 
-Tested on devices with MediaTek Helio G100 and MediaTek Helio G200 with Mali-G57 GPU
+<details>
+<summary>Tested on Android devices with MediaTek Helio G100 and MediaTek Helio G200 with Mali-G57 GPU</summary>
+
 + Tecno Pova 7 4G
 + Tecno Camon 40 Pro 4G
 + Tecno Camon 40 4G
@@ -26,6 +30,18 @@ Tested on devices with MediaTek Helio G100 and MediaTek Helio G200 with Mali-G57
 
 _it should work on other devices though_
 
----
+</details>
 
-source: [AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)
+<details>
+<summary>Tested on a dogshit laptop</summary>
+
+\
+[Acer Aspire E5-476G](https://www.acer.com/us-en/support/product-support/Aspire_E5-476G)
++ CPU: Intel Core i3-7130U
++ GPU: NVIDIA GeForce MX150
++ RAM: 12 GB DDR4
++ Storage: Samsung 870 EVO 500GB SSD
+
+</details>
+
+---
