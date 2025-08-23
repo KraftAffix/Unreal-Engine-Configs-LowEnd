@@ -1,8 +1,9 @@
 source: [AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)
 
-Copy files to this location
+Copy files to this location \
 ```Wuthering Waves\Wuthering Waves Game\Client\Saved\Config\WindowsNoEditor```
-Steam
+
+Steam \
 ```Steam\steamapps\common\Wuthering Waves\Client\Saved\Config\WindowsNoEditor```
 
 # Launch Options
