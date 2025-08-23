@@ -4,14 +4,11 @@
 
 come join (im not the owner)
 
-config files mainly focus on game performance \
-fps should increase by about 10%-20% _surely_
-
-there's AI slop in the commands
+config files mainly focus on game performance
 
 ---
 
-Tested on devices with MediaTek Helio G100 with Mali-G57 GPU
+Tested on devices with MediaTek Helio G100 and MediaTek Helio G200 with Mali-G57 GPU
 + Tecno Pova 7 4G
 + Tecno Camon 40 Pro 4G
 + Tecno Camon 40 4G
@@ -23,11 +20,12 @@ Tested on devices with MediaTek Helio G100 with Mali-G57 GPU
 + Infinix Hot 50 4G
 + Infinix Hot 50 Pro 4G
 + Infinix Hot 50 Pro+
++ Infinix Hot 60 Pro
++ Infinix Hot 60 Pro+
 + OPPO Reno 13 F 4G
 
 _it should work on other devices though_
 
 ---
 
-all credits goes to members of [Brandy's Corner](https://discord.gg/gczjQvgzWE) Discord \
-[github/AlteriaX/WuWa-Configs/](https://github.com/AlteriaX/WuWa-Configs/)
+source: [AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)
