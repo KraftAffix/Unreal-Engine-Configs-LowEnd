@@ -33,13 +33,20 @@ _it should work on other devices though_
 </details>
 
 <details>
-<summary>Tested on a dogshit laptop</summary>
+<summary>Tested on a dogshit laptop and an office laptop</summary>
 
 \
 [Acer Aspire E5-476G](https://www.userbenchmark.com/UserRun/71036061)
 + CPU: Intel Core i3-7130U
 + GPU: NVIDIA GeForce MX150
 + RAM: 12 GB DDR4
++ Storage: Samsung 870 EVO 500GB SSD
+
+\
+[IdeaPad 1]()
++ CPU: Ryzen 5 7520U
++ GPU: RadeonT 610M
++ RAM: 8 GB (6 GB usable)
 + Storage: Samsung 870 EVO 500GB SSD
 
 </details>
