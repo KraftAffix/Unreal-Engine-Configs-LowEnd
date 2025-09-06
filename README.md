@@ -13,23 +13,22 @@ config files mainly focus on game performance
 <details>
 <summary>Tested on Android devices with MediaTek Helio G100 and MediaTek Helio G200 with Mali-G57 GPU</summary>
 
-+ Tecno Pova 7 4G
-+ Tecno Camon 40 Pro 4G
-+ Tecno Camon 40 4G
-+ Tecno Camon 30S
-+ Tecno Camon 30S Pro
-+ Tecno Spark 30 Pro
-+ Infinix Note 50 4G
-+ Infinix Note 50 Pro 4G
-+ Infinix Hot 50 4G
-+ Infinix Hot 50 Pro 4G
-+ Infinix Hot 50 Pro+
-+ Infinix Hot 60 Pro
++ Tecno Pova 7 4G
++ Tecno Camon 40 Pro 4G
++ Tecno Camon 40 4G
++ Tecno Camon 30S
++ Tecno Camon 30S Pro
++ Tecno Spark 30 Pro
++ Infinix Note 50 4G
++ Infinix Note 50 Pro 4G
++ [Infinix Hot 50 4G](https://nanoreview.net/en/benchmark-entry?type=antutu&id=2Hd22ort8qycBRyz0TF1K)
++ Infinix Hot 50 Pro 4G
++ Infinix Hot 50 Pro+
++ [Infinix Hot 60 Pro](https://nanoreview.net/en/benchmark-entry?type=antutu&id=8lHW7LZYa7Tdhx2RU-NU1)
 + Infinix Hot 60 Pro+
-+ OPPO Reno 13 F 4G
++ OPPO Reno 13 F 4G
 
-_it should work on other devices though_
-
+_it should work on other devices with similar hardware (MediaTek chipsets, Mali-G57 GPU)_
 </details>
 
 <details>
