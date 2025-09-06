@@ -44,7 +44,7 @@ _it should work on other devices though_
 + Storage: Samsung 870 EVO 500GB SSD
 
 \
-[IdeaPad 1](https://www.userbenchmark.com/UserRun/71150149)
+[Lenovo IdeaPad 1](https://www.userbenchmark.com/UserRun/71150149)
 + OS: Windows 10 22H2 with Atlas OS 
 + CPU: Ryzen 5 7520U
 + GPU: RadeonT 610M
