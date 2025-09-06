@@ -45,7 +45,7 @@ _it should work on other devices though_
 
 \
 [Lenovo IdeaPad 1](https://www.userbenchmark.com/UserRun/71150149)
-+ OS: Windows 10 22H2 with Atlas OS 
++ OS: Windows 10 22H2 with [AtlasOS](https://atlasos.net/) 
 + CPU: Ryzen 5 7520U
 + GPU: RadeonT 610M
 + RAM: 8 GB (6 GB usable)
