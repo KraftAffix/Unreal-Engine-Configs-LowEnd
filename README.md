@@ -28,7 +28,7 @@ config files mainly focus on game performance
 + Infinix Hot 60 Pro+
 + OPPO Reno 13 F 4G
 
-_it should work on other devices with similar hardware (MediaTek chipsets, Mali-G57 GPU)_
+_it should work on other devices though_
 </details>
 
 <details>
