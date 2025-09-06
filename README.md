@@ -24,7 +24,7 @@ config files mainly focus on game performance
 + [Infinix Hot 50 4G](https://nanoreview.net/en/benchmark-entry?type=antutu&id=2Hd22ort8qycBRyz0TF1K)
 + Infinix Hot 50 Pro 4G
 + Infinix Hot 50 Pro+
-+ [Infinix Hot 60 Pro](https://nanoreview.net/en/benchmark-entry?type=antutu&id=8lHW7LZYa7Tdhx2RU-NU1)
++ [Infinix Hot 60 Pro 4G](https://nanoreview.net/en/benchmark-entry?type=antutu&id=8lHW7LZYa7Tdhx2RU-NU1)
 + Infinix Hot 60 Pro+
 + OPPO Reno 13 F 4G
 
