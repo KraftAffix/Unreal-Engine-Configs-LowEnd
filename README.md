@@ -37,13 +37,15 @@ _it should work on other devices though_
 
 \
 [Acer Aspire E5-476G](https://www.userbenchmark.com/UserRun/71036061)
++ OS: Stock Windows 10 22H2
 + CPU: Intel Core i3-7130U
 + GPU: NVIDIA GeForce MX150
 + RAM: 12 GB DDR4
 + Storage: Samsung 870 EVO 500GB SSD
 
 \
-[IdeaPad 1]()
+[IdeaPad 1](https://www.userbenchmark.com/UserRun/71150149)
++ OS: Windows 10 22H2 with Atlas OS 
 + CPU: Ryzen 5 7520U
 + GPU: RadeonT 610M
 + RAM: 8 GB (6 GB usable)
