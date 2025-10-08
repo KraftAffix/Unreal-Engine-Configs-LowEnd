@@ -37,7 +37,7 @@ _it should work on other devices though_
 + CPU: Ryzen 5 7520U
 + GPU: RadeonT 610M
 + RAM: 8 GB (6 GB usable)
-+ Storage: Samsung 870 EVO 500GB SSD
++ Storage: Micron MTFDKCD512QFM-1BD1AABLA NVMe SSD
 
 </details>
 
