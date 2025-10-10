@@ -10,6 +10,10 @@ config files mainly focus on game performance
 
 ---
 
+![Android Support](https://github.com/KraftAffix/assets/blob/main/AndroidSupport.png)
+
+---
+
 <details>
 <summary>Tested on Android devices with MediaTek Helio G100, G200, MediaTek Dimensity 7300 with Mali-G57 GPU</summary>
 
