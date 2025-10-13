@@ -11,7 +11,7 @@ Recommended file manager \
 
 ---
 
-# Config doesn't work
+### Config doesn't work
 1. Open `DevicesProfiles.ini` with text editor of your choice
 2. Add your device GPU\
 Find your device specifications at [GSMArena](https://www.gsmarena.com) or use [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) App on Googple Play\
