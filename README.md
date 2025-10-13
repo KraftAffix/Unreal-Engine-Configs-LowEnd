@@ -1,4 +1,6 @@
-source: [AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)
+source\
+[AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)\
+[AlteriaX/WuWa-Configs-Android](https://github.com/AlteriaX/WuWa-Configs-Android)
 
 # Wuthering Waves Configurations for Low Specs
 
@@ -6,7 +8,8 @@ source: [AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)
 
 come join (im not the owner)
 
-config files mainly focus on game performance
+values has been edited to my liking for my dogshit phone\
+config files mainly focus on performance
 
 ---
 
