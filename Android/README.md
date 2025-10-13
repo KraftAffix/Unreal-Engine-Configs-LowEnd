@@ -11,25 +11,22 @@ Recommended file manager \
 
 ---
 
-source: [Shxvi/wuwa-configs](https://github.com/Shxvi/wuwa-configs)
-
-# Config doesn't work!
+# Config doesn't work
 1. Open `DevicesProfiles.ini` with text editor of your choice
-2. Add your device Model/GPU, if not sure add both:\
-Find your device specifications at [GSMArena](https://www.gsmarena.com)\
-Write your specs as in example for Poco X6 Pro bellow:
+2. Add your device GPU\
+Find your device specifications at [GSMArena](https://www.gsmarena.com) or use [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) App on Googple Play\
+Write your specs as in example for Infinix HOT 60 Pro below:
 ```
-[Android_VeryHigh DeviceProfile]                                                ↰
-some parameters                                                                 |
-some more parametrs                                                             |
-and maybe even more                                                             |
-                                                                                |
-[2311DRK48G DeviceProfile]                   <----- Model of Poco X6 Pro        |
-BaseProfileName=Android_VeryHigh             <----- Name of graphics profile    ↲
+[Android_Low DeviceProfile]                                                   ↰
+CVars=r.MobileContentScaleFactor=1.5                                           |
+CVars=r.SecondaryScreenPercentage.GameViewport=50                              |
+CVars=r.imp.SSMbScaleLod0=3.0                                                  |
+CVars=r.imp.SSMbScaleLod1=3.0                                                  |
+CVars=r.Mobile.DeviceEvaluation=3                                              |
+                                                                               |
+[Android_Mali_G57-MC2 DeviceProfile]      <--- Name of GPU                     |
+BaseProfileName=Android_Low               <--- Name of graphics profile       ↲
 
-[Android_Mali_G615-MC6 DeviceProfile]        <----- Dimensity 8300's GPU name, SoC from Poco X6 Pro
-BaseProfileName=Android_VeryHigh
-
-[Android_Mali_G615 DeviceProfile]            <----- Another possible name of D8300's GPU
-BaseProfileName=Android_VeryHigh
+[Android_Mali_G57 DeviceProfile]          <--- Other possible name of Mali G57's GPU
+BaseProfileName=Android_Low
 ```
