@@ -1,3 +1,10 @@
+<details>
+<summary>Duet Night Abyss</summary>
+hello
+</details>
+
+<details>
+<summary>Wuthering Waves</summary>
 source\
 [AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)\
 [AlteriaX/WuWa-Configs-Android](https://github.com/AlteriaX/WuWa-Configs-Android)
@@ -49,3 +56,5 @@ _it should work on other devices though_
 </details>
 
 ---
+
+</details>
