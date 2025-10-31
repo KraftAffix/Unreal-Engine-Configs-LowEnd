@@ -3,7 +3,20 @@
 
 ---
 
-hello
+Command entries are found in the game log files through `Duet Night Abyss\EMLauncher\Saved\Logs`. Not sure if all cvars worked, im too lazy too check. It did increase my fps tho.
+
+<details>
+<summary>Tested on a office laptop</summary>
+
+\
+[Lenovo IdeaPad 1](https://www.userbenchmark.com/UserRun/71150149)
++ OS: Windows 11 25H2 with [AtlasOS](https://atlasos.net/) 
++ CPU: Ryzen 5 7520U
++ GPU: RadeonT 610M
++ RAM: 8 GB (6 GB usable)
++ Storage: Micron MTFDKCD512QFM-1BD1AABLA NVMe SSD
+
+</details>
 
 ---
 
