@@ -2,11 +2,7 @@ Copy `Engine.ini` file to this location \
 ```Duet Night Abyss\DNA Game\EM\Saved\Config\WindowsNoEditor```\
 ```Duet Night Abyss\EMLauncher\Saved\Config\WindowsNoEditor```
 
-`GameUserSettings.ini`\
-
----
-
-GameUserSettings.ini \
+# GameUserSettings.ini
 ```
 [ScalabilityGroups]
 sg.ResolutionQuality=65.000000
@@ -26,4 +22,5 @@ Set `sg.ResolutionQuality` to the same as your `r.ScreenPercentage` and `r.Secon
 -dx11 Launch the game with DX11
 -dx12 Launch the game with DX12
 </pre>
+
 
