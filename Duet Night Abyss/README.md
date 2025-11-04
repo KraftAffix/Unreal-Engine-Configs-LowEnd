@@ -5,7 +5,7 @@ Copy `Engine.ini` file to this location \
 # GameUserSettings.ini
 ```
 [ScalabilityGroups]
-sg.ResolutionQuality=65.000000
+sg.ResolutionQuality=75.000000
 sg.ViewDistanceQuality=0
 sg.AntiAliasingQuality=0
 sg.ShadowQuality=0
@@ -22,5 +22,6 @@ Set `sg.ResolutionQuality` to the same as your `r.ScreenPercentage` and `r.Secon
 -dx11 Launch the game with DX11
 -dx12 Launch the game with DX12
 </pre>
+
 
 
