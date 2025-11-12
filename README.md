@@ -27,6 +27,16 @@ Command entries are found in the game log files through `Duet Night Abyss\EMLaun
   
 ---
 
+**I STOPPED PLAYING THE GAME (not updating anymore) - kraftaffix**
+
+---
+
+Brandy's pc died (very sad) 
+![RIP PC](https://github.com/KraftAffix/assets/blob/main/RIP-PC.png)
+the guy that made the config
+
+---
+
 source\
 [AlteriaX/WuWa-Configs](https://github.com/AlteriaX/WuWa-Configs)\
 [AlteriaX/WuWa-Configs-Android](https://github.com/AlteriaX/WuWa-Configs-Android)
@@ -39,10 +49,6 @@ come join (im not the owner)
 
 values has been edited to my liking for my dogshit phone\
 config files mainly focus on performance
-
----
-
-![Android Support](https://github.com/KraftAffix/assets/blob/main/AndroidSupport.png)
 
 ---
 
