@@ -1,6 +1,6 @@
 ``Download Shizuku`` in Google Play Store \
 ```Download Magic Tuner``` in Google Play Store (or find mod apk, the ads gets kinda annoying) \
-Enable Developer Options in your phone 
+``Enable Developer Options`` in your phone 
 
 ---
 
@@ -42,3 +42,4 @@ Open ```Magic Tuner``` and set up ```System Lab``` and ```Game API```
 > - I recommend you to not touch settings like resolution and refresh rate, unless you know what you're doing
 > - Under Game API, add ```Duet Night Abyss``` ```(com.panstudio.gplay.duetnightabyss.arpg.global)```
 > - Do not touch ```Resolution Changer``` and ```Adjust FPS``` unless you know what you're doing
+
