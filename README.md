@@ -27,7 +27,7 @@ Command entries are found in the game log files through `Duet Night Abyss\EMLaun
   
 ---
 
-**I STOPPED PLAYING THE GAME (not updating anymore) - kraftaffix**
+**I STOPPED PLAYING THE GAME, PLEASE GO TO THE OFFICIAL REPO ON SOURCES - kraftaffix**
 
 ---
 
@@ -55,9 +55,11 @@ config files mainly focus on performance
 <details>
 <summary>Tested on Android devices with MediaTek Helio G100, G200 with Mali-G57 GPU and MediaTek Dimensity 7300 with Mali-G615 Mali-G57 GPU</summary>
 
-+ [Tecno Camon 40 Pro 5G](https://nanoreview.net/en/benchmark-entry?type=antutu&id=9wvnKFD6HVUyJ1syLvMo8)
-+ [Infinix Hot 50 4G](https://nanoreview.net/en/benchmark-entry?type=antutu&id=2Hd22ort8qycBRyz0TF1K)
-+ [Infinix Hot 60 Pro 4G](https://nanoreview.net/en/benchmark-entry?type=antutu&id=8lHW7LZYa7Tdhx2RU-NU1)
+/
+**Use GeekBench as a reference, AnTuTu scores are unreliable**
++ [Tecno Camon 40 Pro 5G](https://nanoreview.net/en/benchmark-ranking/tecno-camon-40-pro-5g) - kraftaffix
++ [Infinix Hot 50 4G](https://nanoreview.net/en/benchmark-ranking/infinix-hot-50-4g) - kraftaffix
++ [Infinix Hot 60 Pro 4G](https://nanoreview.net/en/benchmark-ranking/infinix-hot-60-pro-4g) - kraftaffix
 
 _it should work on other devices though_
 </details>
