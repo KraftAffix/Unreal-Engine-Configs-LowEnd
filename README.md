@@ -53,9 +53,9 @@ config files mainly focus on performance
 ---
 
 <details>
-<summary>Tested on Android devices with MediaTek Helio G100, G200 with Mali-G57 GPU and MediaTek Dimensity 7300 with Mali-G615 Mali-G57 GPU</summary>
+<summary>Tested on Android devices with MediaTek Helio G100, G200 with Mali-G57 GPU and MediaTek Dimensity 7300 with Mali-G615 GPU</summary>
 
-/
+\
 **Use GeekBench as a reference, AnTuTu scores are unreliable**
 + [Tecno Camon 40 Pro 5G](https://nanoreview.net/en/benchmark-ranking/tecno-camon-40-pro-5g) - kraftaffix
 + [Infinix Hot 50 4G](https://nanoreview.net/en/benchmark-ranking/infinix-hot-50-4g) - kraftaffix
